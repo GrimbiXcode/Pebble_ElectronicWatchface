@@ -7,7 +7,7 @@ Available on [Pebble AppStore](https://apps.getpebble.com/applications/55b89184a
 Coded and compiled on the new Pebble SDK 3.0 for the systems:
 
 * `Aplite (Pebble or Pebble Steel)`
-* `A Basalt (Pebble Time or Pebble Time Steel)`
+* `Basalt (Pebble Time or Pebble Time Steel)`
 
 ##History
 ###Version 1.1
